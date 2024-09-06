@@ -1,0 +1,53 @@
+gene	panel	highlight
+Wnt2b	WNT main	yes
+Axin2	WNT main	yes
+Notum	WNT main	yes
+Apcdd1	WNT main	
+T	WNT main	yes
+Tcf7	WNT main	
+Edar	WNT main	
+Wif1	WNT main	
+Rspo1	WNT main	
+Rspo4	WNT main	yes
+Vax2	WNT main	
+Nkd1	WNT main	
+Nkd2	WNT main	
+Sfrp5	WNT main	
+Dkk1	WNT main	
+Dkk2	WNT main	yes
+Fzd10	WNT main	
+Lgr6	WNT main	yes
+Lgr5	WNT main	yes
+Lrp8	WNT main	
+Sp5	WNT main	
+Sp9	WNT main	yes
+Mycn	WNT main	
+Bmp4	Bmp main	yes
+Twist1	Bmp main	yes
+Twist2	Bmp main	yes
+Msx1	Bmp main	yes
+Grem1	Bmp main	yes
+Sost	Bmp main	yes
+Dusp4	fgf and HH main	yes
+Dusp6	fgf and HH main	yes
+Etv4	fgf and HH main	yes
+Etv5	fgf and HH main	yes
+Fgf4	fgf and HH main	yes
+Fgf8	fgf and HH main	yes
+Spry4	fgf and HH main	yes
+Fgfr4	fgf and HH main	
+Shh	fgf and HH main	yes
+Hhip	fgf and HH main	
+Sox5	cartilage main	yes
+Sox6	cartilage main	yes
+Sox9	cartilage main	yes
+Col2a1	cartilage main	yes
+Nog	cartilage main	yes
+Bmpr1b	cartilage main	yes
+Bmper	cartilage main	yes
+Col8a1	cartilage main	
+Col9a2	cartilage main	
+Col9a3	cartilage main	
+Sulf1	cartilage main	yes
+Sfrp2	cartilage main	yes
+Fgf12	cartilage main	

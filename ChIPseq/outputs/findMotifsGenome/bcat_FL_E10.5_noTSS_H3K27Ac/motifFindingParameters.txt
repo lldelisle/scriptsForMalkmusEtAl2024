@@ -1,0 +1,1 @@
+cmd = bcat_FL_E10_5_noTSS_H3K27Ac mm10_UCSC.fa bcat_FL_E10_5_noTSS_H3K27Ac_motif -preparsedDir /data/galaxy/galaxy/var/tool-data/mm10_UCSC/homer_preparse/mm10_UCSC_200 -size 200 -len 8,10,12 -S 25 -mis 2 -mset auto -noknown -gc -local 0 -redundant 2.0 -maxN 0.7 -nlen 3 -nmax 160 -e 0.0 -minlp -10.0

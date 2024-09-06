@@ -1,0 +1,21 @@
+Version of rnaseq_rscripts
+89ba59018bdea8d8085331952c3195216b8b26aa
+The counts have been merged in /scratch/ldelisle/Sheth/RNAseq//mergedTables//AllHTSeqCounts.txt.
+Will subset the counts generated at the previous step.
+The counts have been subset in /scratch/ldelisle/Sheth/RNAseq//mergedTables//AllHTSeqCounts_subset.txt.
+The FPKM have been merged in /scratch/ldelisle/Sheth/RNAseq//mergedTables//AllCufflinks_Simplified.txt.
+Will normalize the FPKM generated at the previous step.
+No nbOfGenesWithAnoukMethod have been specified. 1000 wil be used.4222 lines removed.
+The FPKM have been normalized in /scratch/ldelisle/Sheth/RNAseq//mergedTables//AllCufflinks_Simplified_norm.txt.
+The coefficients used to normalize are in /scratch/ldelisle/Sheth/RNAseq//mergedTables//AllCufflinks_Simplified_coeffsUsedForNorm.txt.
+[1] "Time-series"
+[1] "DMSOvsC59_1h"
+[1] "Genes that are never expressed are removed"
+[1] "DMSOvsC59_6h"
+[1] "Genes that are never expressed are removed"
+[1] "DMSOvsC59_12h"
+[1] "Genes that are never expressed are removed"
+[1] "DMSOvsC59_18h"
+[1] "Genes that are never expressed are removed"
+[1] "DMSOvsC59_24h"
+[1] "Genes that are never expressed are removed"

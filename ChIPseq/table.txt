@@ -1,0 +1,12 @@
+H3K27Ac_FL_E10.5+DMSO+6h_rep1	H3K27Ac_FL_E10.5+DMSO+6h_rep1_R1.fastq.gz	H3K27Ac_FL_E10.5+DMSO+6h_rep1_R2.fastq.gz
+H3K27Ac_FL_E10.5+DMSO+6h_rep2	H3K27Ac_FL_E10.5+DMSO+6h_rep2_R1.fastq.gz	H3K27Ac_FL_E10.5+DMSO+6h_rep2_R2.fastq.gz
+input-H3K27Ac_FL_E10.5+DMSO+6h	input-H3K27Ac_FL_E10.5+DMSO+6h_R1.fastq.gz	input-H3K27Ac_FL_E10.5+DMSO+6h_R2.fastq.gz
+b-Catenin_FL_E10.5+DMSO+6h_rep1	b-Catenin_FL_E10.5+DMSO+6h_rep1_R1.fastq.gz	b-Catenin_FL_E10.5+DMSO+6h_rep1_R2.fastq.gz
+b-Catenin_FL_E10.5+DMSO+6h_rep2	b-Catenin_FL_E10.5+DMSO+6h_rep2_R1.fastq.gz	b-Catenin_FL_E10.5+DMSO+6h_rep2_R2.fastq.gz
+input-b-Catenin_FL_E10.5+DMSO+6h	input-b-Catenin_FL_E10.5+DMSO+6h_R1.fastq.gz	input-b-Catenin_FL_E10.5+DMSO+6h_R2.fastq.gz
+H3K27Ac_FL_E10.5+C59+6h_rep1	H3K27Ac_FL_E10.5+C59+6h_rep1_R1.fastq.gz	H3K27Ac_FL_E10.5+C59+6h_rep1_R2.fastq.gz
+H3K27Ac_FL_E10.5+C59+6h_rep2	H3K27Ac_FL_E10.5+C59+6h_rep2_R1.fastq.gz	H3K27Ac_FL_E10.5+C59+6h_rep2_R2.fastq.gz
+input-H3K27Ac_FL_E10.5+C59+6h	input-H3K27Ac_FL_E10.5+C59+6h_R1.fastq.gz	input-H3K27Ac_FL_E10.5+C59+6h_R2.fastq.gz
+b-Catenin_FL_E10.5+C59+6h_rep1	b-Catenin_FL_E10.5+C59+6h_rep1_R1.fastq.gz	b-Catenin_FL_E10.5+C59+6h_rep1_R2.fastq.gz
+b-Catenin_FL_E10.5+C59+6h_rep2	b-Catenin_FL_E10.5+C59+6h_rep2_R1.fastq.gz	b-Catenin_FL_E10.5+C59+6h_rep2_R2.fastq.gz
+input-b-Catenin_FL_E10.5+C59+6h	input-b-Catenin_FL_E10.5+C59+6h_R1.fastq.gz	input-b-Catenin_FL_E10.5+C59+6h_R2.fastq.gz

@@ -1,0 +1,10 @@
+RNA_FL_timecourse_E10.5+DMSO+1h	RNA_FL_timecourse_E10.5+DMSO+1h_rep1,RNA_FL_timecourse_E10.5+DMSO+1h_rep2,RNA_FL_timecourse_E10.5+DMSO+1h_rep3
+RNA_FL_timecourse_E10.5+C59+1h	RNA_FL_timecourse_E10.5+C59+1h_rep1,RNA_FL_timecourse_E10.5+C59+1h_rep2,RNA_FL_timecourse_E10.5+C59+1h_rep3
+RNA_FL_timecourse_E10.5+DMSO+6h	RNA_FL_timecourse_E10.5+DMSO+6h_rep1,RNA_FL_timecourse_E10.5+DMSO+6h_rep2,RNA_FL_timecourse_E10.5+DMSO+6h_rep3
+RNA_FL_timecourse_E10.5+C59+6h	RNA_FL_timecourse_E10.5+C59+6h_rep1,RNA_FL_timecourse_E10.5+C59+6h_rep2,RNA_FL_timecourse_E10.5+C59+6h_rep3
+RNA_FL_timecourse_E10.5+DMSO+12h	RNA_FL_timecourse_E10.5+DMSO+12h_rep1,RNA_FL_timecourse_E10.5+DMSO+12h_rep2,RNA_FL_timecourse_E10.5+DMSO+12h_rep3
+RNA_FL_timecourse_E10.5+C59+12h	RNA_FL_timecourse_E10.5+C59+12h_rep1,RNA_FL_timecourse_E10.5+C59+12h_rep2,RNA_FL_timecourse_E10.5+C59+12h_rep3
+RNA_FL_timecourse_E10.5+DMSO+18h	RNA_FL_timecourse_E10.5+DMSO+18h_rep1,RNA_FL_timecourse_E10.5+DMSO+18h_rep2,RNA_FL_timecourse_E10.5+DMSO+18h_rep3
+RNA_FL_timecourse_E10.5+C59+18h	RNA_FL_timecourse_E10.5+C59+18h_rep1,RNA_FL_timecourse_E10.5+C59+18h_rep2,RNA_FL_timecourse_E10.5+C59+18h_rep3
+RNA_FL_timecourse_E10.5+DMSO+24h	RNA_FL_timecourse_E10.5+DMSO+24h_rep1,RNA_FL_timecourse_E10.5+DMSO+24h_rep2,RNA_FL_timecourse_E10.5+DMSO+24h_rep3
+RNA_FL_timecourse_E10.5+C59+24h	RNA_FL_timecourse_E10.5+C59+24h_rep1,RNA_FL_timecourse_E10.5+C59+24h_rep2,RNA_FL_timecourse_E10.5+C59+24h_rep3

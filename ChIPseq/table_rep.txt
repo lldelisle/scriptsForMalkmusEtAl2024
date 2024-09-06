@@ -1,0 +1,4 @@
+H3K27Ac_FL_E10.5+DMSO+6h	H3K27Ac_FL_E10.5+DMSO+6h_rep1,H3K27Ac_FL_E10.5+DMSO+6h_rep2
+b-Catenin_FL_E10.5+DMSO+6h	b-Catenin_FL_E10.5+DMSO+6h_rep1,b-Catenin_FL_E10.5+DMSO+6h_rep2
+H3K27Ac_FL_E10.5+C59+6h	H3K27Ac_FL_E10.5+C59+6h_rep1,H3K27Ac_FL_E10.5+C59+6h_rep2
+b-Catenin_FL_E10.5+C59+6h	b-Catenin_FL_E10.5+C59+6h_rep1,b-Catenin_FL_E10.5+C59+6h_rep2
